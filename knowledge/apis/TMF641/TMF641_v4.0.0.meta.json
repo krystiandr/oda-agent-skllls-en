@@ -3,12 +3,12 @@
   "type": "api",
   "name": "service-ordering-management-api",
   "version": "v4.0.0",
-  "status": "fetch_failed",
+  "status": "v4",
   "source": {
-    "origin": "https://tmf-open-api-table-documents.s3.eu-west-1.amazonaws.com/Beta/TMF641_Service_Ordering/4.2.0/swagger/TMF641_Service_Ordering_v4.2.0_beta_swagger.json",
+    "origin": "https://tmf-open-api-table-documents.s3.eu-west-1.amazonaws.com/OpenApiTable/TMF641_Service_Ordering/4.2.0/swagger/TMF641-ServiceOrdering-v4.2.0.swagger.json",
     "license": "RAND",
-    "retrieved": "2026-08-19",
-    "error": "curl failed (22) for https://tmf-open-api-table-documents.s3.eu-west-1.amazonaws.com/Beta/TMF641_Service_Ordering/4.2.0/swagger/TMF641_Service_Ordering_v4.2.0_beta_swagger.json: "
+    "retrieved": "2026-09-06",
+    "sha256": "a76fc1b8dcda2630f1a3f97d33b3c649a5506b4815cf3f8769d2be751b88696d"
   },
   "links": {
     "use_cases": []

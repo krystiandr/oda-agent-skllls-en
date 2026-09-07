@@ -7,8 +7,8 @@
   "source": {
     "origin": "https://raw.githubusercontent.com/tmforum-rand/TMForum-ODA-Ready-for-publication/v1.0.0/TMFC003-ProductOrderDeliveryOrchestrationAndManagement/Specification/TMFC003-ProductOrderDeliveryOrchestrationAndManagement.yaml",
     "license": "RAND",
-    "retrieved": "2026-08-19",
-    "sha256": "2cfbf7d0b1e7d0e1e9be9cf449077c30ab441004c9ceed523557e384b569bd38"
+    "retrieved": "2026-09-06",
+    "sha256": "4cd6f42ce83ff35e338a0277acab0b034ca2a8e62d01228806b58fbf2b44fc83"
   },
   "links": {
     "apis": [],

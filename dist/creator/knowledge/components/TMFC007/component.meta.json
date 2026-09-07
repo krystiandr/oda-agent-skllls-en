@@ -7,8 +7,8 @@
   "source": {
     "origin": "https://raw.githubusercontent.com/tmforum-rand/TMForum-ODA-Ready-for-publication/v1.0.0/TMFC007-ServiceOrderManagement/Specification/TMFC007-ServiceOrderManagement.yaml",
     "license": "RAND",
-    "retrieved": "2026-08-19",
-    "sha256": "dcee930860f72e7b813f74473ebbed2650d8c64a4de4b13e95514b01a72e92a8"
+    "retrieved": "2026-09-06",
+    "sha256": "0f9f03f26a0fa77d5106a2cb50d435e225c23ff34bb46286bb4cbd1b1a96b8f9"
   },
   "links": {
     "apis": [],

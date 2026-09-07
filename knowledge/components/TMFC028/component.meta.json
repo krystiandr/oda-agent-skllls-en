@@ -7,8 +7,8 @@
   "source": {
     "origin": "https://raw.githubusercontent.com/tmforum-rand/TMForum-ODA-Ready-for-publication/v1.0.0/TMFC028-PartyManagement/Specification/TMFC028-PartyManagement.yaml",
     "license": "RAND",
-    "retrieved": "2026-08-19",
-    "sha256": "7716cb8571137be6ec30052aa9bcbcd4157dc519f596243004f97c8503140c1b"
+    "retrieved": "2026-09-06",
+    "sha256": "61ecca6633a9a76513542977a7b4303e173748cc4f17be0b68fc7dc386966252"
   },
   "links": {
     "apis": [],

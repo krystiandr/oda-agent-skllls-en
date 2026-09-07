@@ -200,9 +200,9 @@
     "type": "api",
     "name": "service-ordering-management-api",
     "version": "v4.0.0",
-    "status": "fetch_failed",
-    "source_origin": "https://tmf-open-api-table-documents.s3.eu-west-1.amazonaws.com/Beta/TMF641_Service_Ordering/4.2.0/swagger/TMF641_Service_Ordering_v4.2.0_beta_swagger.json",
-    "path": null,
+    "status": "v4",
+    "source_origin": "https://tmf-open-api-table-documents.s3.eu-west-1.amazonaws.com/OpenApiTable/TMF641_Service_Ordering/4.2.0/swagger/TMF641-ServiceOrdering-v4.2.0.swagger.json",
+    "path": "knowledge/apis/TMF641/TMF641_v4.0.0.json",
     "meta_path": "knowledge/apis/TMF641/TMF641_v4.0.0.meta.json",
     "used_by": [
       "TMFS004",
