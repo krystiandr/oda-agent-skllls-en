@@ -767,7 +767,8 @@ id:TMF641_v4.0.0 a :API ;
     :apiFamily """TMF641""" ;
     rdfs:label """service-ordering-management-api""" ;
     :version """v4.0.0""" ;
-    :status """fetch_failed""" ;
+    :status """v4""" ;
+    :path """knowledge/apis/TMF641/TMF641_v4.0.0.json""" ;
     :apiUsedByUseCase id:TMFS004, id:TMFS008, id:TMFS012, id:TMFS014, id:TMFS028, id:TMFS030 .
 
 id:TMF644_v4.0.0 a :API ;
